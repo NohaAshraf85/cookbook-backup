@@ -1,0 +1,16 @@
+.searchComponent {
+    overflow: unset;
+}
+.search-container
+{
+    display: flex;
+}
+.searchComponent input[type=text] {
+    margin-top: 0px !important;
+    width:100%;
+    padding-top:2px;
+    padding-bottom:2px;
+    border-style: none;
+
+}
+

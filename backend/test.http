@@ -1,0 +1,4 @@
+POST http://localhost:3001/app/getfavorites
+Content-Type: application/json
+
+{"userId": "60e5af3120ae7b04e85e305f"}

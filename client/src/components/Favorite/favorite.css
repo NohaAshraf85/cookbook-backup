@@ -1,0 +1,10 @@
+.fa.fa-heart{
+    color: rgb(149, 11, 11);
+    position: absolute;
+    z-index: 999;
+    left: 20px;
+    top: 10px;
+    
+    cursor: pointer;
+
+}

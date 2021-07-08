@@ -1,0 +1,23 @@
+.hero{
+    position: relative;
+    height: 600px;
+    overflow: hidden;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.introText{
+    margin-top: 270px;
+    padding-right: 70px;
+    padding-left: 50px;
+    background-color: rgba(90, 89, 89, 0.555);
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+.intro{
+    font-family: 'Courgette', cursive;
+}

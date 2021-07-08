@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/breakfast.jpg",
+    "name": "Breakfast"
+  },
+  {
+    "id": 2,
+    "image": "/assets/lunch.jpg",
+    "name": "Lunch"
+  },
+  {
+    "id": 3,
+    "image": "/assets/dinner.jpg",
+    "name": "Dinner"
+  },
+  {
+    "id": 4,
+    "image": "/assets/dessert.jpg",
+    "name": "Dessert"
+  },
+  {
+    "id": 5,
+    "image": "/assets/snack.jpg",
+    "name": "Snacks"
+  },
+  {
+    "id": 6,
+    "image": "/assets/appetizer.jpg",
+    "name": "Appetizer"
+  },
+  {
+    "id": 7,
+    "image": "/assets/soup.jpg",
+    "name": "Soup"
+  },
+  {
+    "id": 8,
+    "image": "/assets/salad.jpg",
+    "name": "Salad"
+  }
+]
